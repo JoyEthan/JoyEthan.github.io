@@ -49,6 +49,6 @@ hr {
     opacity: 1;  
 }
 
-.justify-content.center {
+.container {
   justify-content: center;
 }
